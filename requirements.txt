@@ -1,3 +1,11 @@
 sphinx_togglebutton
 ipython
-myst_nb
+jupyter-book
+sphinx-book-theme
+sphinx
+matplotlib
+jupyter-sphinx
+nbsphinx
+sphinxcontrib-bibtex
+MyST-NB
+nbconvert==7.2.9
