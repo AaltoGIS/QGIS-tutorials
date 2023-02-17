@@ -1,0 +1,10 @@
+jupyter-book
+sphinx-book-theme
+sphinx
+matplotlib
+ipython
+jupyter-sphinx
+nbsphinx
+sphinxcontrib-bibtex
+MyST-NB
+nbconvert==7.2.9
