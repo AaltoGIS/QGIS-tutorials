@@ -1,3 +1,2 @@
-python==3.10
-sphinx_togglebutton==0.3.2
-ipython==8.8.0
+sphinx_togglebutton
+ipython
