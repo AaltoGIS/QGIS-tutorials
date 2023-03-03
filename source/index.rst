@@ -25,8 +25,9 @@ Lessons
 -------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
 
 
    lessons/title1-getting-started
+   lessons/title2-vector-exercises
