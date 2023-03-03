@@ -26,7 +26,7 @@ Lessons
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
+
 
 
    lessons/title1-getting-started
