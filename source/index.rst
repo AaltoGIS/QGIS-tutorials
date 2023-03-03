@@ -26,7 +26,7 @@ Lessons
 
 .. toctree::
    :maxdepth: 1
-   :caption: Getting started
+   :hidden:
 
-   lessons/1-ui-funcionality
-   lessons/2-gpkg-management
+
+   lessons/title1-getting-started
