@@ -26,6 +26,7 @@ Lessons
 
 .. toctree::
    :maxdepth: 1
-   :caption: Basics of QGIS
+   :caption: Getting started
 
-   lessons/1-intro-qgis
+   lessons/1-ui-funcionality
+   lessons/2-gpkg-management
