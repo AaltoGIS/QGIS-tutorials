@@ -1,4 +1,4 @@
-**Vector exercises**
+**Part II - Vector exercises**
 -------------------
 
 .. toctree::

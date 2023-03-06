@@ -1,4 +1,4 @@
-**Getting started**
+**Part I - Getting started**
 -------------------
 
 .. toctree::
