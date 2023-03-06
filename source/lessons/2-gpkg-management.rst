@@ -6,7 +6,7 @@ it can be used.
 
 .. admonition:: Check the version
 
-   *Be sure that you are using the last version of this document at the bottom-left part of this page*
+   *Force cache refresh of this page with Ctrl+F5 to have the most update version of the tutorial*
 
 .. raw:: html
 
