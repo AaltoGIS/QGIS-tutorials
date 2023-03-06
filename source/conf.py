@@ -38,7 +38,7 @@ extensions = [
     'IPython.sphinxext.ipython_directive',
     'myst_nb',
     'jupyter_sphinx',
-    'sphinx_last_updated_by_git'
+   # 'sphinx_last_updated_by_git'
 ]
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -58,7 +58,7 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_book_theme'
-
+html_last_updated_fmt = ''
 # Show todos
 todo_include_todos = True
 
@@ -69,7 +69,7 @@ html_static_path = ['_static']
 html_logo = 'img/cover.png'
 html_title = "Spatial Analysis and QGIS"
 
-git_untracked_check_dependencies = False
+# git_untracked_check_dependencies = False
 
 html_theme_options = {
     # "external_links": [],
