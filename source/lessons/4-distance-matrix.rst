@@ -1,4 +1,4 @@
-*Distance matrix*
+Distance matrix
 ---------------------------
 
 A good way to understanding the relationship of elements in the space is by evaluating the closeness. 

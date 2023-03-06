@@ -1,4 +1,4 @@
-*Voronoi polygons*
+Voronoi polygons
 ---------------------------
 
 Voronoi polygons is a quick way of understanding the area if influence of certain elements located in the space.

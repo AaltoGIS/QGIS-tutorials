@@ -1,4 +1,4 @@
-*Buffer and dissolve*
+Buffer and dissolve
 ---------------------------
 
 Buffer can be overused and it might create an extensive overlapping of polygons. A good solution is to apply dissolve 

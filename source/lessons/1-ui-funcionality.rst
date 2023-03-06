@@ -1,5 +1,5 @@
-*UI Funcionality*
----------------------------
+UI Funcionality
+----------------------
 
 QGIS might be a bit confusing with all the buttons and windows around. 
 Get familiar with the User Interface (UI) following the next remote practice.

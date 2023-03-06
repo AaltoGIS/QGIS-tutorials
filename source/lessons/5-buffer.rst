@@ -1,4 +1,4 @@
-*Buffer*
+Buffer
 ---------------------------
 
 A buffer is an area with an especific distance threshold from specific locations or boundaries. 

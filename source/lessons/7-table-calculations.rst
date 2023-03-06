@@ -1,4 +1,4 @@
-*Table calculations*
+Table calculations
 ---------------------------
 
 Every layer in QGIS has a *table of attributes* that contains the characteristics of the element such as distance, area, color, age, etc. 
