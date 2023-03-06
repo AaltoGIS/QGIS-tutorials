@@ -58,7 +58,7 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_book_theme'
-html_last_updated_fmt = ''
+html_last_updated_fmt = None
 # Show todos
 todo_include_todos = True
 
