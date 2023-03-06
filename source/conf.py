@@ -68,6 +68,8 @@ html_static_path = ['_static']
 html_logo = 'img/cover.png'
 html_title = "Spatial Analysis and QGIS"
 
+git_untracked_check_dependencies = False
+
 html_theme_options = {
     # "external_links": [],
     "repository_url": "https://github.com/AaltoGIS/QGIS-tutorials",
