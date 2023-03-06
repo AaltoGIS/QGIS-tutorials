@@ -29,5 +29,8 @@ Lessons
 
 
 
-   lessons/title1-getting-started
-   lessons/title2-vector-exercises
+   lessons/part1-getting-started
+   lessons/part2-vector-exercises
+   lessons/part3-raster-exercises
+   lessons/part4-layer-operations
+   lessons/part5-data-conversions

@@ -1,5 +1,5 @@
 **Vector exercises**
--------------------
+--------------------
 
 .. toctree::
    :maxdepth: 2
