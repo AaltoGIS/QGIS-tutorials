@@ -10,4 +10,4 @@ Get familiar with the User Interface (UI) following the next remote practice.
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vQFhSOcI6pu7kQdpPeTuC8Pa3EnmkvfPAW0kKMMi9nZ5Jb_WQ_YPq64-YZP-hTVWg/pub?embedded=true" frameborder=0.5 width="900" height="12320" allowfullscreen="true"  mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vQFhSOcI6pu7kQdpPeTuC8Pa3EnmkvfPAW0kKMMi9nZ5Jb_WQ_YPq64-YZP-hTVWg/pub?embedded=true" frameborder=0.5 width="900" height="14000" allowfullscreen="true"  mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
