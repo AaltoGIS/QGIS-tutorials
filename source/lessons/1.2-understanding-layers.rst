@@ -1,0 +1,13 @@
+Understanding layers
+----------------------
+
+Get to know how to visualize quickly spatial data as layers. Understand the basic characteristic and 
+configure an appealing visualization.
+
+.. admonition:: Check the version
+
+   *Force cache refresh of this page with Ctrl+F5 to have the most update version of the tutorial*
+
+.. raw:: html
+
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vS8bB9vpjbKLLnvQ98SI-HDG38U90QoplWhyAxX9wzVw9_GqGkQ3Rm-A9vChGXQ9Q/pub?embedded=true" frameborder=0 width="900" height="13000" allowfullscreen="true"  mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
