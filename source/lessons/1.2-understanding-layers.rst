@@ -1,5 +1,5 @@
-Understanding layers
-----------------------
+Understanding data-layers
+---------------------------
 
 Get to know how to visualize quickly spatial data as layers. Understand the basic characteristic and 
 configure an appealing visualization.
