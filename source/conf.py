@@ -71,8 +71,13 @@ html_title = "Spatial Analysis and QGIS"
 
 # git_untracked_check_dependencies = False
 
+html_context = {
+   "default_mode": "light"
+}
+
 html_theme_options = {
     # "external_links": [],
+    "navbar_end": ["navbar-icon-links"],
     "repository_url": "https://github.com/AaltoGIS/QGIS-tutorials",
     "repository_branch": "master",
     "path_to_docs": "source/",
