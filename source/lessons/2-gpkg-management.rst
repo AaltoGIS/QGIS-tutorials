@@ -1,5 +1,5 @@
-Geopackage database management
---------------------------------
+GPKG database management
+--------------------------
 
 .. admonition:: Check the version
 
