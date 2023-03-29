@@ -1,8 +1,5 @@
-Geopackage data management
-----------------------------
-
-QGIS works with its native geographic data format known as *Geopackage*. Get to know and undertand how
-it can be used.
+Geopackage database management
+--------------------------------
 
 .. admonition:: Check the version
 

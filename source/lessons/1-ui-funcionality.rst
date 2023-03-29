@@ -1,9 +1,6 @@
 UI Funcionality
 ----------------------
 
-QGIS might be a bit confusing with all the buttons and windows around. 
-Get familiar with the User Interface (UI) following the next remote practice.
-
 .. admonition:: Check the version
 
    *Force cache refresh of this page with Ctrl+F5 to have the most update version of the tutorial*

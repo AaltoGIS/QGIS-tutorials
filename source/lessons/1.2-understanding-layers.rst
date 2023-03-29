@@ -1,9 +1,6 @@
 Understanding data layers
 ---------------------------
 
-Get to know how to visualize quickly spatial data as layers. Understand the basic characteristic and 
-configure an appealing visualization.
-
 .. admonition:: Check the version
 
    *Force cache refresh of this page with Ctrl+F5 to have the most update version of the tutorial*
