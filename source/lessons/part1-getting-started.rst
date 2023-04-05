@@ -5,6 +5,6 @@
    :maxdepth: 2
 
 
-   1-ui-funcionality
-   1.2-understanding-layers
-   2-gpkg-management
+   lesson1-ui-funcionality
+   lesson2-understanding-layers
+   lesson3-gpkg-management
