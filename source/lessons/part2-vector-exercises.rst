@@ -4,7 +4,7 @@
 .. toctree::
    :maxdepth: 2
 
-   3-voronoi
+   lesson5-voronoi
    4-distance-matrix
    5-buffer
    6-buffer-dissolve

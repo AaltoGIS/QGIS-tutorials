@@ -8,6 +8,5 @@
    lesson1-ui-funcionality
    lesson2-understanding-layers
    lesson3-gpkg-management
-
-.. 
+..
    lesson4-sharing-practice
