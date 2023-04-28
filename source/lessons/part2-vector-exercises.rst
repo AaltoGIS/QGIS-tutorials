@@ -6,6 +6,6 @@
 
    lesson4-voronoi
    lesson5-distance-matrix
-   5-buffer
-   6-buffer-dissolve
-   7-table-calculations
+   lesson6-buffer
+   lesson7-buffer-dissolve
+   lesson8-table-calculations
