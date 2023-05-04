@@ -8,4 +8,4 @@
    lesson5-distance-matrix
    lesson6-buffer
    lesson7-buffer-dissolve
-   lesson8-table-calculations
+   lesson8-field-calculation
