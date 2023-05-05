@@ -1,4 +1,4 @@
-Table calculations
+Field calculation
 ---------------------------
 
 .. admonition:: Check the version
