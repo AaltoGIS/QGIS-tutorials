@@ -1,5 +1,5 @@
 Field calculation
----------------------------
+------------------
 
 .. admonition:: Check the version
 
