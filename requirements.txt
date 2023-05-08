@@ -2,7 +2,7 @@ sphinx_togglebutton
 ipython
 jupyter-book
 sphinx-book-theme
-sphinx==5.0.0
+sphinx
 matplotlib
 jupyter-sphinx
 nbsphinx

@@ -33,6 +33,7 @@ release = '1.0'
 extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.todo',
+    'sphinx.builders.linkcheck',
     'sphinx_togglebutton',
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
