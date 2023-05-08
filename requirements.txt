@@ -2,7 +2,7 @@ sphinx_togglebutton
 ipython
 jupyter-book
 sphinx-book-theme
-openssl==1.1.1
+openssl
 sphinx
 matplotlib
 jupyter-sphinx
