@@ -80,7 +80,7 @@ html_theme_options = {
     # "external_links": [],
     "navbar_end": ["navbar-icon-links"],
     "repository_url": "https://github.com/AaltoGIS/QGIS-tutorials",
-    "repository_branch": "master",
+    "repository_branch": "main",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/{username}",
     # "google_analytics_id": "UA-186242850-1",
