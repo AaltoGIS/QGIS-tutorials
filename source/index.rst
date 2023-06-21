@@ -26,11 +26,9 @@ Lessons
 
 .. toctree::
    :maxdepth: 2
-
-
-
-   lessons/part1-getting-started
-   lessons/part2-vector-exercises
-   lessons/part3-raster-exercises
-   lessons/part4-layer-operations
-   lessons/part5-data-conversions
+   
+   part1-getting-started
+   part2-vector-exercises
+   part3-raster-exercises
+   part4-layer-operations
+   part5-data-conversions
