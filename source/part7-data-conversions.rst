@@ -1,4 +1,4 @@
-**Data conversions**
+7 Data conversions
 --------------------
 
 .. toctree::
@@ -7,4 +7,4 @@
 .. toctree::
    :maxdepth: 2
 
-   lessons/lesson17-vector-raster
+   lessons/lesson7-1-vector-raster

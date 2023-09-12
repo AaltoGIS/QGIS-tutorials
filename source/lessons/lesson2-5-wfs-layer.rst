@@ -1,5 +1,5 @@
-2.1 GPKG as a database
----------------------------
+2.5 Fetching WFS Layers
+--------------------------
 
 .. admonition:: Check the version
 
@@ -8,10 +8,10 @@
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRsmOk4F9h4gnM38ZFIpTjJzQKSbw83bOo67Q9CSeFkloz_DdBjhMr373Gzi5_YPw/pub?embedded=true" 
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRV7TBtWJvQbCqbHdO8Q82bS4v8TTA-3I9sRJlAQMvYmtYmrJCSyJtyVluxuqwNQg/pub?embedded=true" 
     frameborder=0 
     width="900" 
-    height="6000" 
+    height="5000" 
     allowfullscreen="true"  
     mozallowfullscreen="true" 
     webkitallowfullscreen="true"></iframe>

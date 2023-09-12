@@ -27,10 +27,10 @@ Lessons
 .. toctree::
    :maxdepth: 2
    
-   lessons/lesson0-user-interface
-   part1-getting-started-layers
-   part2-gpkg-data-management
-   part2-vector-exercises
-   part3-raster-exercises
-   part4-layer-operations
-   part5-data-conversions
+   part1-user-interface
+   part2-getting-data-layers
+   part3-gpkg-data-management
+   part4-vector-exercises
+   part5-raster-exercises
+   part6-layer-operations
+   part7-data-conversions
