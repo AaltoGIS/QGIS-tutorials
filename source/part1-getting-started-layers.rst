@@ -1,4 +1,4 @@
-**Getting started with Layers**
+**1 Getting data layers**
 ---------------------------------
 
 .. toctree::

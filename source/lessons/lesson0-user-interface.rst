@@ -1,5 +1,5 @@
-Intro - User interface
-----------------------
+**User interface**
+------------------------------
 
 .. admonition:: Check the version
 

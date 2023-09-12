@@ -1,4 +1,4 @@
-Fetching WFS Layers
+1.5 Fetching WFS Layers
 --------------------------
 
 .. admonition:: Check the version

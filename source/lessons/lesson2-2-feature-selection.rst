@@ -1,5 +1,5 @@
-1.1 Download your first GPKG
--------------------------------
+2.2 Feature selection
+---------------------------
 
 .. admonition:: Check the version
 
@@ -8,10 +8,10 @@
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vTbqiZj_BkMlZfzrfNsXbdF9N1PYDZZvL9PfN8V5BcodJLgcQxbuhDYSfT8L2HbDQ/pub?embedded=true" 
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRXPwz3PRVIFBzAjmzikHKUC1TDUQWwGkadTqiLOCmdWIjTWe9Thdw7QrSIeVV4yQ/pub?embedded=true" 
     frameborder=0 
     width="900" 
-    height="8000" 
+    height="9000" 
     allowfullscreen="true"  
     mozallowfullscreen="true" 
     webkitallowfullscreen="true"></iframe>

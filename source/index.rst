@@ -29,6 +29,7 @@ Lessons
    
    lessons/lesson0-user-interface
    part1-getting-started-layers
+   part2-gpkg-data-management
    part2-vector-exercises
    part3-raster-exercises
    part4-layer-operations

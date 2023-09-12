@@ -1,4 +1,4 @@
-Geocoding a new layer
+1.4 Geocoding a new layer
 --------------------------
 
 .. admonition:: Check the version
