@@ -1,4 +1,4 @@
-2 Getting data layers
+**II Getting data layers**
 ---------------------------------
 
 .. toctree::

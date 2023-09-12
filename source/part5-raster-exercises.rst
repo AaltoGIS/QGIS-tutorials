@@ -1,5 +1,5 @@
-5 Raster exercises
---------------------
+**V Raster exercises**
+-----------------------
 
 .. toctree::
    :maxdepth: 2

@@ -1,4 +1,4 @@
-3 GPKG data management
+**III GPKG data management**
 ---------------------------------
 
 .. toctree::

@@ -1,5 +1,5 @@
-4 Vector exercises
---------------------
+**IV Vector exercises**
+-------------------------
 
 .. toctree::
    :maxdepth: 2

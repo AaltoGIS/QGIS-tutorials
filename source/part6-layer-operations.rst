@@ -1,5 +1,5 @@
-6 Layer operations
---------------------
+**VI Layer operations**
+-------------------------
 
 .. toctree::
    :maxdepth: 2
