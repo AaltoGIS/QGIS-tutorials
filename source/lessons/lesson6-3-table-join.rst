@@ -1,4 +1,4 @@
-Table join
+*6.3 Table join*
 --------------------------
 
 .. admonition:: Check the version

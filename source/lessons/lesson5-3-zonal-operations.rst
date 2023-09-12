@@ -1,5 +1,5 @@
-Zonal operations
-----------------
+*5.3 Zonal operations*
+-----------------------
 
 .. admonition:: Check the version
 

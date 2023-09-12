@@ -1,5 +1,5 @@
-Aggregations
-----------------
+*5.4 Aggregations*
+--------------------
 
 .. admonition:: Check the version
 

@@ -1,4 +1,4 @@
-Spatial join
+*6.4 Spatial join*
 --------------------------
 
 .. admonition:: Check the version

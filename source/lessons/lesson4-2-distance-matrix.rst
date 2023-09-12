@@ -1,4 +1,4 @@
-Distance matrix
+4.2 Distance matrix
 ---------------------------
 
 .. admonition:: Check the version
@@ -8,4 +8,10 @@ Distance matrix
 
 .. raw:: html
 
-    <iframe src="https://docs.google.com/document/d/e/2PACX-1vSsOkUxzSx5MQQV7Fr7HrIs6yZCMT4uS_7cEbTQ4JZhrbnyJoTrULHlKpfCl_f39g/pub?embedded=true" frameborder=0 width="900" height="3000" allowfullscreen="true"  mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vSsOkUxzSx5MQQV7Fr7HrIs6yZCMT4uS_7cEbTQ4JZhrbnyJoTrULHlKpfCl_f39g/pub?embedded=true" 
+    frameborder=0 
+    width="900" 
+    height="4000" 
+    allowfullscreen="true"  
+    mozallowfullscreen="true" 
+    webkitallowfullscreen="true"></iframe>

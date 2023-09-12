@@ -1,5 +1,5 @@
-Downscaling and upscaling
---------------------------
+*5.5 Downscaling and upscaling*
+---------------------------------
 
 .. admonition:: Check the version
 
