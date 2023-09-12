@@ -1,4 +1,4 @@
-UI Funcionality
+Intro - User interface
 ----------------------
 
 .. admonition:: Check the version

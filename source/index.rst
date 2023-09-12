@@ -27,7 +27,8 @@ Lessons
 .. toctree::
    :maxdepth: 2
    
-   part1-getting-started
+   lessons/lesson0-user-interface
+   part1-getting-started-layers
    part2-vector-exercises
    part3-raster-exercises
    part4-layer-operations
