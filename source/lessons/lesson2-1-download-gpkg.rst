@@ -1,4 +1,4 @@
-2.1 Download your first GPKG
+Download your first GPKG
 -------------------------------
 
 .. admonition:: Check the version

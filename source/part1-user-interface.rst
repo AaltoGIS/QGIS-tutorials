@@ -1,4 +1,4 @@
-**I User interface**
+**L1 User interface**
 ------------------------------
 
 .. admonition:: Check the version

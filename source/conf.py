@@ -67,8 +67,8 @@ todo_include_todos = True
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_logo = 'img/cover.png'
-html_title = "Spatial Analysis and QGIS"
+html_logo = 'img/qgis-tutorials-banner.png'
+html_title = ""
 
 # git_untracked_check_dependencies = False
 

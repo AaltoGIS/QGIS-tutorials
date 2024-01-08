@@ -2,7 +2,7 @@
    sphinx-quickstart on Fri Feb 17 10:59:38 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-.. figure:: img/banner.png
+.. figure:: img/qgis-tutorials-banner.png
 
 *Spatial Analysis and QGIS*
 ---------------------------
