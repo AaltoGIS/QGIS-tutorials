@@ -1,4 +1,4 @@
-2.5 Fetching WFS Layers
+Fetching WFS Layers
 --------------------------
 
 .. admonition:: Check the version
@@ -11,7 +11,7 @@
     <iframe src="https://docs.google.com/document/d/e/2PACX-1vRV7TBtWJvQbCqbHdO8Q82bS4v8TTA-3I9sRJlAQMvYmtYmrJCSyJtyVluxuqwNQg/pub?embedded=true" 
     frameborder=0 
     width="900" 
-    height="5000" 
+    height="5200" 
     allowfullscreen="true"  
     mozallowfullscreen="true" 
     webkitallowfullscreen="true"></iframe>

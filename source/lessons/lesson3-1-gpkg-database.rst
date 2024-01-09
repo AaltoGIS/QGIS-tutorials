@@ -1,4 +1,4 @@
-3.1 GPKG as a database
+GPKG as a database
 ---------------------------
 
 .. admonition:: Check the version

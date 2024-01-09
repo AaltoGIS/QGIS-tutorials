@@ -1,4 +1,4 @@
-2.2 Style your Layer
+Style your Layer
 --------------------------
 
 .. admonition:: Check the version

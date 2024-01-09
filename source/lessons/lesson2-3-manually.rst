@@ -1,4 +1,4 @@
-2.3 Create manually a GPKG
+Create manually a GPKG
 --------------------------
 
 .. admonition:: Check the version

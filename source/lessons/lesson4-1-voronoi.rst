@@ -1,4 +1,4 @@
-4.1 Voronoi polygons
+Voronoi polygons
 ---------------------------
 
 .. admonition:: Check the version

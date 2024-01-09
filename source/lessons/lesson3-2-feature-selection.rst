@@ -1,4 +1,4 @@
-3.2 Feature selection
+Feature selection
 ---------------------------
 
 .. admonition:: Check the version
