@@ -1,4 +1,4 @@
-4.2 Distance matrix
+Distance matrix
 ---------------------------
 
 .. admonition:: Check the version

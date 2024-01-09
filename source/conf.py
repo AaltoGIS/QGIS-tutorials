@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'QGIS-Tutorials'
-copyright = '2023, Fatima Mahnoor, Jussi Nikander, Henrikki Tenkanen, Bryan R. Vallejo | Dep. of Built Environment, Aalto University'
+copyright = '2023, Bryan R. Vallejo, Fatima Mahnoor, Jussi Nikander, Henrikki Tenkanen | Dep. of Built Environment, Aalto University'
 author = 'Bryan R. Vallejo'
 
 # The full version, including alpha/beta/rc tags

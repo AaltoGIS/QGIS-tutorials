@@ -1,4 +1,4 @@
-4.4 Buffer and dissolve
+Buffer and dissolve
 ---------------------------
 
 .. admonition:: Check the version
@@ -10,7 +10,7 @@
     <iframe src="https://docs.google.com/document/d/e/2PACX-1vTdtsGBDOiE7PHsTUgyYPAlV7SZRUNNUoplepfcsimCgtuH8JU18QdJhFxRfCBKDw/pub?embedded=true" 
     frameborder=0 
     width="900" 
-    height="5000" 
+    height="5200" 
     allowfullscreen="true"  
     mozallowfullscreen="true" 
     webkitallowfullscreen="true"></iframe>
