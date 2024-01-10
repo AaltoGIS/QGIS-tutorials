@@ -10,7 +10,7 @@ Merge layers
     <iframe src="https://docs.google.com/document/d/e/2PACX-1vTck2s1G0xFLGWAZ0HEf-coBoJxpc4ZNT1DAYuou3wy3Ut5JH8MlvUK-DJtn4Pp-w/pub?embedded=true" 
     frameborder=0 
     width="900" 
-    height="4000" 
+    height="4200" 
     allowfullscreen="true"  
     mozallowfullscreen="true" 
     webkitallowfullscreen="true"></iframe>

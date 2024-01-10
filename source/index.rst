@@ -4,11 +4,11 @@
    contain the root `toctree` directive.
 .. figure:: img/qgis-tutorials-banner.png
 
-*Spatial Analysis and QGIS*
+*Spatial Analysis with QGIS*
 ---------------------------
 
-The **Spatial Analysis and QGIS** course introduces to students to
-basic spatial analysis algorithms with a desktop open source software QGIS
+The **Spatial Analysis with QGIS** website gives to students an introduction to basic spatial operations 
+using the open source GIS desktop software QGIS. 
 
 .. admonition:: Note for participants
 
@@ -18,11 +18,15 @@ basic spatial analysis algorithms with a desktop open source software QGIS
 Download QGIS
 -------------
 
-Find the most updated version of QGIS and download it directly 
-from their website `qgis.org <https://www.qgis.org/en/site/>`__.
+The QGIS version used in the tutorials is the `QGIS 3.22.7 <https://download.qgis.org/downloads/QGIS-OSGeo4W-3.22.7-1.msi`__. 
+It is recommended to install the same version but feel free to download and install the most updated version.
+
 
 Lessons
 -------
+
+Take a look at the content structure.
+
 
 .. toctree::
    :maxdepth: 2
