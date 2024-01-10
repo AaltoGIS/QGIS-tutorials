@@ -10,7 +10,7 @@
     <iframe src="https://docs.google.com/document/d/e/2PACX-1vTMQaZ6LrRIUkvsaRI0bMGpSzr-zJQ64hBOWeP89GQtVapGUXI7T8rxKk7Tt-y00g/pub?embedded=true" 
     frameborder=0 
     width="900" 
-    height="9000" 
+    height="9400" 
     allowfullscreen="true"  
     mozallowfullscreen="true" 
     webkitallowfullscreen="true"></iframe>

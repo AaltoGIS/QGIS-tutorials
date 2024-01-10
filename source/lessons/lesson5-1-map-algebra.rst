@@ -1,4 +1,4 @@
-5.1 Map algebra
+Map algebra
 -----------------
 
 .. admonition:: Check the version
