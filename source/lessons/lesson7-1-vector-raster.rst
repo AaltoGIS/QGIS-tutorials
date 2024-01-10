@@ -1,4 +1,4 @@
-7.1 Vector-Raster-Vector
+Vector-Raster-Vector
 --------------------------
 
 .. admonition:: Check the version

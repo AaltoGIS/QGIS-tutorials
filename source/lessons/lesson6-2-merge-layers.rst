@@ -1,4 +1,4 @@
-6.2 Merge layers
+Merge layers
 --------------------------
 
 .. admonition:: Check the version

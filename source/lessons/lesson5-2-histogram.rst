@@ -1,4 +1,4 @@
-5.2 Histogram
+Histogram
 ----------------
 
 .. admonition:: Check the version

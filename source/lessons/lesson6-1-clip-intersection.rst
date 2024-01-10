@@ -1,4 +1,4 @@
-6.1 Clip and Intersection
+Clip and Intersection
 ----------------------------
 
 .. admonition:: Check the version
