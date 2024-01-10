@@ -1,4 +1,4 @@
-**V Raster exercises**
+**L5 Raster exercises**
 -----------------------
 
 .. toctree::

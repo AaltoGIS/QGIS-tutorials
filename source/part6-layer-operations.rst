@@ -1,4 +1,4 @@
-**VI Layer operations**
+**L6 Layer operations**
 -------------------------
 
 .. toctree::
