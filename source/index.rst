@@ -18,7 +18,7 @@ using the open source GIS desktop software QGIS.
 Download QGIS
 -------------
 
-The QGIS version used in the tutorials is the `QGIS 3.22.7 <https://download.qgis.org/downloads/QGIS-OSGeo4W-3.22.7-1.msi`__. 
+The QGIS version used in the tutorials is the `QGIS 3.22.7 <https://download.qgis.org/downloads/QGIS-OSGeo4W-3.22.7-1.msi>`__. 
 It is recommended to install the same version but feel free to download and install the most updated version.
 
 
