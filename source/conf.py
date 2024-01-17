@@ -39,6 +39,7 @@ extensions = [
     'IPython.sphinxext.ipython_directive',
     'myst_nb',
     'jupyter_sphinx',
+    'sphinxcontrib.googleanalytics'
    # 'sphinx_last_updated_by_git'
 ]
 # Add any paths that contain templates here, relative to this directory.
@@ -83,7 +84,7 @@ html_theme_options = {
     "repository_branch": "main",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/{username}",
-    # "google_analytics_id": "UA-186242850-1",
+    "google_analytics_id": "G-VZNDSQZY33",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {
