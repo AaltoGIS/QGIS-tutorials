@@ -1,4 +1,4 @@
-**L5 Raster exercises**
+**L5 Raster processing**
 -----------------------
 
 .. toctree::
