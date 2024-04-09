@@ -1,4 +1,4 @@
-**L4 Vector exercises**
+**L4 Vector processing**
 -------------------------
 
 .. toctree::
